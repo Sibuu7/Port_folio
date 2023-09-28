@@ -35,12 +35,12 @@ const NavBar = () => {
     <div className='flex justify-between item-center w-full h-20 px-4 py-4 text-white bg-black fixed z-20'>
       <div className='flex gap-2'>
         <div className='rounded-full text-gray-800 bg-gradient-to-t from-[#0F2027] via-[#203A43] to-[#2C5364] bg-blend-luminosity'>
-          <h1 className='text-4xl px-3 py-1 text-gray-100 '>A</h1>
+          <h1 className='text-4xl px-3 py-1 text-gray-100 '>S</h1>
         </div>
         <h1 className='text-2xl tracking-wide uppercase ml-2 pt-2 font-signature text-yellow-300'>
           <Typed
             strings={[
-              "Aman"
+              "SIBA SANKAR PRADHAN"
             ]}
             typeSpeed={500}
             backSpeed={150}

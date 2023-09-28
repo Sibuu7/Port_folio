@@ -26,8 +26,8 @@ const Home = () => {
             Hello, I'am <span className="text-red-800">Siba Sankar</span> Pradhan.
           </h2>
           <p className="text-gray-400 py-4 max-w-md text-lg tracking-wider">
-            I'am a web developer, i have worked with techs like tailwind,
-            reactjs etc.
+            I'am a web developer, I have worked with techs like Tailwind,
+            ReactJS, etc.
           </p>
 
           <div>

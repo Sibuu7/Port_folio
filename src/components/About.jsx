@@ -12,11 +12,9 @@ const About = () => {
         </div>
 
         <p className='text-xl mt-20 tracking-wider'>
-        Meet Aman Singh, a 20-year-old college student studying Bio-technolgy at NIT rourkela. I'm a motivated and hardworking individual with a passion for technology and programming. 
-        </p>
-        <br />
-        <p className='text-xl tracking-wider'>
-        I'm always looking for ways to improve and stay current in the field. And try to be an active member of the college's computer club and if given an opportunity, also try on leadership roles in various group projects.
+       Hello, I'm Siba Sankar Pradhan, a pre-final undergrad at NIT Rourkela pursuing a B.Tech in Electrical Engineering. 
+
+Welcome to my digital corner! I'm passionate and dedicated,  with a strong love for all things tech. I'm not just a coder; I'm a problem solver. I thrive on challenges and enjoy finding elegant solutions to complex problems. I'm a strong believer in the power of teamwork, open communication, and continuous learning. Collaboration with diverse teams has enriched my perspective and enhanced my ability to deliver top-notch solutions.Throughout my career, I've had the privilege of working on a variety of exciting projects. You can explore some of my best work in my portfolio section.
         </p>
 
       </div>

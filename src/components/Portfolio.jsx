@@ -4,7 +4,7 @@ import weather from "../assets/portfolio/weather.png";
 import navbar from "../assets/portfolio/navbar.jpg";
 import reactParallax from "../assets/portfolio/reactParallax.jpg";
 import toDo from "../assets/portfolio/toDo.png";
-import portfolio from "../assets/portfolio/portfolio.png";
+import portfolio from "../assets/portfolio/sibsankar.png";
 
 const Portfolio = () => {
   const portfolios = [
